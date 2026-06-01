@@ -5,5 +5,5 @@
 - 🛡️ Створюю освітній антивірус **Blade Antivirus Sovereign**
 - 🔍 Досліджую структуру та роботу шкідливого ПЗ (Malware Analysis)
 
-### 📊 Моя статистика GitHub
-![Моя статистика GitHub](https://vercel.app)
+
+

@@ -5,5 +5,9 @@
 - 🛡️ Створюю освітній антивірус **Blade Antivirus Sovereign**
 - 🔍 Досліджую структуру та роботу шкідливого ПЗ (Malware Analysis)
 
+## 🔗 Корисні посилання
+
+* **💬 [Посилання DOU](https://dou.ua/users/blade391off/)
+* ** [Топік exe файли з торенту - майже завжди вірус](https://dou.ua/forums/topic/60488/)
 
 

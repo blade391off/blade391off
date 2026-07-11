@@ -7,7 +7,7 @@
 
 ## 🔗 Корисні посилання
 
-* **💬 [Посилання DOU](https://dou.ua/users/blade391off/)
-* ** [Топік exe файли з торенту - майже завжди вірус](https://dou.ua/forums/topic/60488/)
+* **💬 [Посилання DOU](https://dou.ua/users/blade391off/)**
+* ** [Топік exe файли з торенту - майже завжди вірус](https://dou.ua/forums/topic/60488/)**
 
 

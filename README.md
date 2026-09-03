@@ -13,4 +13,8 @@
 *  **[Топік exe файли з торенту - майже завжди вірус](https://dou.ua/forums/topic/60488/)**
 *  **[Мої YARA-RULES](https://github.com/blade391off/YARA-rules)**
 
+
+## Stats
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blade391off)
+
+

@@ -1,3 +1,5 @@
+<img width="500" height="450" alt="zCi" src="https://github.com/user-attachments/assets/e0763aa7-6f7d-479b-8c7e-e1cfca3fde62" />
+
 # Привіт! Я blade 👋
 
 ### 👨‍💻 Про мене
@@ -11,3 +13,4 @@
 *  **[Топік exe файли з торенту - майже завжди вірус](https://dou.ua/forums/topic/60488/)**
 *  **[Мої YARA-RULES](https://github.com/blade391off/YARA-rules)**
 
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blade391off)

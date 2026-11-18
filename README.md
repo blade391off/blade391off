@@ -28,7 +28,7 @@
 
 <td width="33%" valign="top">
 
-## 🛡️ Blade Antivirus Sovereign
+## 🛡️ Blade Antivirus
 
 An educational antivirus project focused on malware detection and analysis.
 
@@ -39,7 +39,6 @@ An educational antivirus project focused on malware detection and analysis.
 * Static Analysis
 * PE Analysis
 * Hash Detection
-* Machine Learning
 * Threat Analysis
 
 </td>
